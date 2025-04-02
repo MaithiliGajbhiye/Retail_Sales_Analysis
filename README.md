@@ -1,7 +1,7 @@
 # Retail_Sales_Analysis
 # Retail Sales Dashboard
 
-<img src="Dashboard.png" width=1000>
+<img src="Retail Sales Dashboard.png" width=1000>
 
 ## Project Overview
 
