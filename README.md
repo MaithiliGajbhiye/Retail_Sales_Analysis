@@ -1,6 +1,8 @@
 # Retail_Sales_Analysis
 # Retail Sales Dashboard
 
+<img src="Dashboard.png" width=1000>
+
 ## Project Overview
 
 This Tableau project, Retail Sales Dashboard, is designed to analyze and visualize key retail sales metrics. It helps in tracking sales performance, identifying trends, and making data-driven business decisions.
