@@ -31,6 +31,20 @@ Customer Information
 
 Sales, Profit, and Discounts
 
+## Story
+
+<img src="Retail_S1.png" width=1000>
+
+- West & Central Achieved the Sales  Target for 2018.
+
+<img src="Retail_S2.png" width=1000>
+
+- NY City was the best performar for the whole period.
+
+<img src="Retail_S3.png" width=1000>
+
+- September marked the highest sales in this year.
+
 ## Requirements
 
 To view and interact with the dashboard, you need:
@@ -53,6 +67,4 @@ Integrating real-time data updates.
 
 Enhancing visualizations with more advanced Tableau features.
 
-## Author
 
-If you have any questions or suggestions, feel free to reach out!
